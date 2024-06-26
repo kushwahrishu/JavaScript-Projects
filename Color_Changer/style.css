@@ -1,0 +1,62 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+ body{
+  background-color: black;
+   color:white;
+} 
+h1{
+  padding:30px 20px 0px 350px;
+  color: white;
+  font-weight: bold;
+}
+button{
+  width: 70px;
+   height: 70px;
+  margin: 20px;
+  margin-left: 50px;
+  border:2px solid black;
+  border-radius: 5px;
+  box-shadow: 0px 2px 3px black;
+}
+.pallate{
+  width: 50%;
+  height: 50%;
+  margin-left: 300px;
+}
+#grey{
+  background-color: grey;
+}
+#aqua{
+  background-color:aqua;
+}
+#blue{
+  background-color: blue;
+}
+#yellow{
+  background-color: yellow;
+}
+#red{
+  background-color:red;
+}
+#pink{
+  background-color:pink;
+}
+#palegreen{
+  background-color:palegreen;
+}
+#lawngreen{
+  background-color:lawngreen;
+}
+#purple{
+  background-color:purple;
+}
+h4{
+  margin-left: 170px;
+  text-transform: capitalize;
+  margin-top: 0px;
+  line-height: 25px;
+}
